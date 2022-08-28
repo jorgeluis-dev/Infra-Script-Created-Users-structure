@@ -30,5 +30,9 @@ All users will have full permissions within the public directory;
 -Users will not be able to have read, write and execute permissions in directories of departments that they do not belong to;
 -Upload created script file to your GitHub account.
 ========================================================
+Commands used in the Linux terminal
+
+
+
 
 
