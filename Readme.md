@@ -49,6 +49,17 @@ groupadd GRP_ADM
 groupadd GRP_VEN
 groupadd GRP_SEC
 
+3.Users
+useradd carlos -c "Usuário convidado" -s /bin/bash -m -p $(openssl passwd -crypt Senha123)
+useradd maria -c "Usuário convidado" -s /bin/bash -m -p $(openssl passwd -crypt Senha123)
+useradd joao -c "Usuário convidado" -s /bin/bash -m -p $(openssl passwd -crypt Senha123)
+useradd debora -c "Usuário convidado" -s /bin/bash -m -p $(openssl passwd -crypt Senha123)
+useradd sebastiana -c "Usuário convidado" -s /bin/bash -m -p $(openssl passwd -crypt Senha123)
+useradd roberto -c "Usuário convidado" -s /bin/bash -m -p $(openssl passwd -crypt Senha123)
+useradd josefina -c "Usuário convidado" -s /bin/bash -m -p $(openssl passwd -crypt Senha123)
+useradd amanda -c "Usuário convidado" -s /bin/bash -m -p $(openssl passwd -crypt Senha123)
+useradd rogerio -c "Usuário convidado" -s /bin/bash -m -p $(openssl passwd -crypt Senha123)
+
 
 
 
