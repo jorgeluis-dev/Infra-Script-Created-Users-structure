@@ -20,7 +20,7 @@ GRP_ADM GRP_VEN GRP_SEC
     rogerio
 ]
 
-##Project rules and steps
+## Project rules and steps
 
 -Delete previously created directories, files, groups and users;
 
