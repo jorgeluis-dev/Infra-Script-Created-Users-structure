@@ -38,6 +38,17 @@ GRP_ADM GRP_VEN GRP_SEC
 ========================================================
 Commands used in the Linux terminal
 
+1.PATH
+mkdir /publico
+mkdir /adm
+mkdir /ven
+mkdir /sec
+
+2.GROUPS
+groupadd GRP_ADM
+groupadd GRP_VEN
+groupadd GRP_SEC
+
 
 
 
